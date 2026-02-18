@@ -1,40 +1,31 @@
-# Ryan - Next JS Portfolio Template
-#### Preview
+# Seethala Devi Portfolio
 
- - [Demo](https://themewagon.github.io/ryan/)
+This repository contains my personal portfolio built with **React** and **Tailwind CSS**. 
 
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/ryan/)
+### About Me
+I am an aspiring Full Stack Developer with strong skills in **Frontend** development and basic knowledge of **Backend**. I love building responsive and user-friendly web applications.
 
-## Getting Started
+### Features
+- Responsive design
+- Projects showcase
+- Contact & resume download
+- GitHub & Instagram links
 
-1. Clone Repository
-```
-git clone https://github.com/themewagon/ryan.git
-```
-2. Install Dependencies
-```
-npm i
-```
-3. Run the development server:
+### Projects
+1. **IoT-Based Ambulance Tracking and Health Status Monitoring System**
+   - Real-time patient health monitoring during ambulance transport
+   - GPS tracking for faster emergency response
+   - Secure data transmission to hospitals
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+2. **Hospital Website**
+   - User-friendly hospital website built with HTML, CSS, Bootstrap & JS
+   - Patient interface for services, doctor profiles & appointments
 
-## Author 
-```
-Design and code is completely written by codescandy and development team. 
-```
+3. **Login and Signup Page (SecureLogin)**
+   - Secure authentication system
+   - Web-based authentication best practices
 
-## License
-
- - Design and Code is Copyright &copy; <a href="url" target="_blank">codescandy</a>
- - Licensed cover under [MIT]
- - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
+### Contact
+- **Email:** seethaladevin163@gmail.com
+- **GitHub:** [https://github.com/Seethala717](https://github.com/Seethala717)  
+- **Instagram:** [https://www.instagram.com/sparrkle_.soul._49/](https://www.instagram.com/sparrkle_.soul._49/)
