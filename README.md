@@ -26,6 +26,6 @@ I am an aspiring Full Stack Developer with strong skills in **Frontend** develop
    - Web-based authentication best practices
 
 ### Contact
-- **Email:** your email here  
+- **Email:** seethaladevin163@gmail.com
 - **GitHub:** [https://github.com/Seethala717](https://github.com/Seethala717)  
 
