@@ -28,4 +28,4 @@ I am an aspiring Full Stack Developer with strong skills in **Frontend** develop
 ### Contact
 - **Email:** your email here  
 - **GitHub:** [https://github.com/Seethala717](https://github.com/Seethala717)  
-- **Instagram:** [https://www.instagram.com/sparrkle_.soul._49](https://www.instagram.com/sparrkle_.soul._49)
+
